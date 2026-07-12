@@ -1,18 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on: Computer Engineering<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi there! 👋
+👋 Hi there! I'm Muhammad, a passionate developer with a drive to build great software. Currently finished proejcts:
 
+🚀 Purlto: An open-source URL shortener crafted with Node.js, TypeScript, React, and Docker. Stastus 👇 down for now
+🌐 Hustle Auto: Transforming mobile/in-house car detailing services in Calgary. Status 👇 down for now
+✨ Timeey: A sophisticated time management app developed in TypeScript and React.
+🤖 Matrix: A file system in React using recursive programming techniques.
+Additionally, explore some of my shorter adventures:
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dongarkar.muhammad@gmail.com) 
+Freightmap: Creating user-friendly maps for trucking routes with React.
+Gmapy: An interactive Google Map with markers for locations.
+JWT: Exploring JSON Web Tokens and FastAPI.
+Oh, by the way, don't miss Puzzling Problems, where I tackle LeetCode problems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Muhammad-Dongarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Muhammad-Dongarkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Dongarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💡 Skills: Django, FastAPI, Postgres, SQL, JavaScript, TypeScript, React, Python, Vue, and more!
 
----
-[![](https://komarev.com/ghpvc/?username=Muhammad-Dongarkar&icon=0&color=0)](https://visitcount.itsvg.in)
+🔨 Tools: ☁️ Google Cloud, 📈 Google Analytics, 🐋 Docker, 🕰️ GitHub Actions.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Let's collaborate and create something amazing together! 💻✨
+
+⚡ Fun fact: I'm an Android user.
